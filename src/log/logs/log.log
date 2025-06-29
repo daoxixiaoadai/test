@@ -1,3 +1,17 @@
 {"level":"info","time":"2025-06-29T13:15:45.508+0800","line":"e:/code/628/test/src/db/mysql.go:15","msg":"Init Mysql","serviceName":"pledge"}
 {"level":"error","time":"2025-06-29T13:15:50.306+0800","line":"e:/code/628/test/src/db/mysql.go:38","msg":"Failed to connect to database: dial tcp [::1]:3306: connectex: No connection could be made because the target machine actively refused it.","serviceName":"pledge"}
 {"level":"info","time":"2025-06-29T14:39:46.693+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:15:30.417+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:15:38.913+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:18:26.944+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:18:26.959+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:19:08.435+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:19:08.450+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:24:59.124+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:24:59.139+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:30:52.304+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T15:30:52.320+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T16:24:59.801+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T16:24:59.818+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T16:25:47.517+0800","line":"e:/code/628/test/src/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-06-29T16:25:47.532+0800","line":"e:/code/628/test/src/db/redis.go:20","msg":"Init Redis","serviceName":"pledge"}
