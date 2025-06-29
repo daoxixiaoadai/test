@@ -1,0 +1,10 @@
+[mysql]
+# address = "50.18.79.42"
+address = "localhost"
+port = "3306"
+db_name = "mysql"
+user_name = "root"
+password = "19970226"
+max_open_conns = 0
+max_idle_conns = 0
+max_life_time = 0
